@@ -2,9 +2,9 @@ import { Icons } from "@/components/icons";
 import { Mail } from "lucide-react";
 
 export const USER = {
-    logo: "surojit",
-    name: "Surojit Ghosh",
-    subheading: "Full-Stack Developer",
+    logo: "satadru",
+    name: "Satadru Jati",
+    subheading: "AI ML Developer",
     description:
         "Software engineer crafting modern, responsive, and intuitive digital experiences—shipping fast with purpose and clarity.",
     avatar: "/surojit.png",
